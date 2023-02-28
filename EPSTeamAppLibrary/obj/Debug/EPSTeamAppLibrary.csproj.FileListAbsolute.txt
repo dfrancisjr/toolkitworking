@@ -1,9 +1,0 @@
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\bin\Debug\EPSTeamAppLibrary.dll
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\bin\Debug\EPSTeamAppLibrary.pdb
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\obj\Debug\EPSTeamAppLibrary.csproj.AssemblyReference.cache
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\obj\Debug\EPSTeamAppLibrary.csproj.CoreCompileInputs.cache
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\obj\Debug\EPSTeamAppLibrary.dll
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\obj\Debug\EPSTeamAppLibrary.pdb
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\bin\Debug\System.Data.SQLite.dll
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\bin\Debug\System.Data.SQLite.xml
-C:\Users\dfran\source\repos\EPSTeamApp\EPSTeamAppLibrary\obj\Debug\EPSTeamAppLibrary.csproj.CopyComplete
